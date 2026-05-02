@@ -10,6 +10,6 @@ Here is a quick summary of what I'm up to:
 - 🤔 **I’m looking for help with ...** Best practices for structuring advanced code repositories and mentorship in agile software development.
 - 💬 **Ask me about ...** ITIL, Vendor Management, Microsoft Intune, Azure AD, enterprise server virtualization, and how to survive critical migrations without losing your cool.
 - 📫 **How to reach me: ...** 
-  - 💼 LinkedIn: [https://www.linkedin.com/in/cesaromarvasquezcampos/]
+  - 💼 LinkedIn: https://www.linkedin.com/in/cesaromarvasquezcampos
 - 😄 **Pronouns: ...** He / Him.
 - ⚡ **Fun fact: ...** I traded Venezuela for Chile 7 years ago. In my free time, I alternate between two worlds: retro gaming (huge fan of Zelda and Metal Gear Solid) and fully disconnecting by hiking in the mountains. I'm also a hardcore hardware enthusiast and enjoy daily walks with my dogs.
