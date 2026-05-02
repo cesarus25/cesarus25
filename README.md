@@ -1,15 +1,15 @@
-## Hi there, soy César Omar 👋
+## Hi there, I'm César Omar 👋
 
-Soy Ingeniero de Sistemas y actual IT Coordinator con 12 años de experiencia liderando operaciones tecnológicas y transformaciones digitales[cite: 1]. Estoy en plena transición hacia un perfil estratégico enfocado en Datos, IA y Automatización.
+I am a Systems Engineer and currently an IT Coordinator with 12 years of experience leading technological operations and digital transformations. I am actively transitioning into a strategic role focused on Data, AI, and Automation.
 
-Aquí un resumen de lo que estoy haciendo:
+Here is a quick summary of what I'm up to:
 
-- 🔭 **I’m currently working on ...** Liderar la TI para más de 160 usuarios en WS Audiology Chile[cite: 1] y construyendo mi primera arquitectura RPA On-Premise con n8n y Docker en mi laboratorio local (HP ProLiant/ML30).
-- 🌱 **I’m currently learning ...** Modelado de Bases de Datos (PostgreSQL), Data Analytics (Power BI, Microsoft Fabric)[cite: 1] y Fundamentos de Programación para consumo de APIs.
-- 👯 **I’m looking to collaborate on ...** Proyectos de automatización de procesos de negocio, integraciones de ERPs (como Softland)[cite: 1] y despliegue de infraestructuras eficientes.
-- 🤔 **I’m looking for help with ...** Mejores prácticas para estructurar repositorios de código avanzados y mentoría en el desarrollo ágil de software.
-- 💬 **Ask me about ...** ITIL, Gestión de Proveedores, Microsoft Intune, Azure AD[cite: 1], virtualización de servidores corporativos y cómo sobrevivir a migraciones críticas sin perder la calma.
+- 🔭 **I’m currently working on ...** Leading IT for over 160 users at WS Audiology Chile, and building my first On-Premise RPA architecture with n8n and Docker in my home lab (HP ProLiant/ML30).
+- 🌱 **I’m currently learning ...** Database Modeling (PostgreSQL), Data Analytics (Power BI, Microsoft Fabric), and Programming Fundamentals for API consumption.
+- 👯 **I’m looking to collaborate on ...** Business process automation projects, ERP integrations (like Softland), and the deployment of efficient IT infrastructures.
+- 🤔 **I’m looking for help with ...** Best practices for structuring advanced code repositories and mentorship in agile software development.
+- 💬 **Ask me about ...** ITIL, Vendor Management, Microsoft Intune, Azure AD, enterprise server virtualization, and how to survive critical migrations without losing your cool.
 - 📫 **How to reach me: ...** 
-  - 💼 LinkedIn: [https://www.linkedin.com/in/cesaromarvasquezcampos/](https://www.linkedin.com/in/cesaromarvasquezcampos/)[cite: 1]
-- 😄 **Pronouns: ...** Él / He / Him.
-- ⚡ **Fun fact: ...** Hace 7 años cambié Venezuela por Chile. En mi tiempo libre alterno entre dos mundos: el retro gaming (fiel seguidor de Zelda y Metal Gear Solid) y la desconexión total haciendo trekking en la montaña. Además, soy un curioso empedernido del hardware y disfruto los paseos diarios con mis perros.
+  - 💼 LinkedIn: [https://www.linkedin.com/in/cesaromarvasquezcampos/]
+- 😄 **Pronouns: ...** He / Him.
+- ⚡ **Fun fact: ...** I traded Venezuela for Chile 7 years ago. In my free time, I alternate between two worlds: retro gaming (huge fan of Zelda and Metal Gear Solid) and fully disconnecting by hiking in the mountains. I'm also a hardcore hardware enthusiast and enjoy daily walks with my dogs.
